@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "73uyVE7VGqobrdRCFR5wg8",
+    "name" : "Global2",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2023-12-19T07:05:01.064Z",
+  "objectRefs" : [ ]
+}
